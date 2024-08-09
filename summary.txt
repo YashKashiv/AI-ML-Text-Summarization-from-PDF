@@ -1,0 +1,44 @@
+- Artificial intelligence is an advanced form of artificial intelligence
+- It is a form of intelligence that enables machines to perceive their environment
+- It can also be used in games such as chess, chess and self-driving cars
+- Artificial intelligence can be applied to humans and other forms of intelligence, such as self-learned AI systems, as well as artificial intelligence systems such as Siri and Google's Siri and Alexa .
+
+- Artificial intelligence was founded as an academic discipline in 1956
+- Alan Turing was the first person to conduct substantial research in the field that he called "machine intelligence" Artificial intelligence is influencing a societal shift towards increased automation and data-driven decision-making
+- However, many AI applications are not perceived as AI because once something becomes useful enough and common enough it's not labeled AI anymore
+- Funding and interest vastly increased after 2012 when deep learning surpassed all previous AI techniques, and after 2017 with the transformer architecture .
+
+- The various subfields of AI research are centered around particular goal s and the use of particular tools
+- This raises questi ons about the long-term effects , ethical implications , and risks of AI, prompt ing discussions about regulatory policies to ensure the safety and benefits of the technology
+- The research raises questions about the effects and ethical implications of AI and the risks of its use
+- This raises  concerns about the future of AI technology .
+
+- The traditional goals of AI research include reasoning, knowledge represe ntation, planning, learning, natural language processing, perception, and support for robotics
+- The ability to com plete any task performable by a human on an equal level is among the field's long-term goals
+- To reach these goals, AI researcher s have adapted and integrated a wide range of techniques, including mathematical optimization, formal logic and artificial neural networks .
+
+- Researchers developed algorit hms that imitated step-by-step reasoning that humans use to solve puzzles or make logical deductions
+- By the late 1980s and 1990s, methods were developed for dealing with uncertain  or incomplete information, empl oying concepts from probabilities and economics
+- Many algorithms are insufficient for solving large reasonin g problems because they experience a "combinatorial explo sion": They become exponentially slower as problems grow .
+
+- Formal knowledge repres entations are used in content-based indexing and retrieval, scene interpretation and scene interpretation, clinical decision support, knowledge discovery and other areas
+- Formal perceptions of knowledge can be used by programs such as a knowledge base that can be accessed by a program using a formal form of a form that is a body of knowledge represented in a form.[1] Formal representations of knowledge have been used in many areas such as scene interpretation[22] scene interpretation .
+
+- An ontology is the set of objects, relations, concepts, and properties used by a particular domain of knowledge
+- An "agent" is anyt hing that perceives and takes actions in the world
+- Knowledge bases need to represent things such as objects, properties, properties and relations between objects;[28] situations, situations, events, states, and time;[29] causes and effects;[30] knowledge about knowledge (what we know about what other people know)
+
+- A rational agent has goals or preferences and takes actions to make them happen
+- In automated plannin g, the agent has a specific goal and preferences
+- In classical planning the agent knows exactly what the effect of any action will be
+- In most real-world problems the agent may not be certain about the situation they are in (it is not "deterministic") and it may not know for certain what will happen after each possible action .
+
+- Markov decision process has a transition model that describes the probability that a particular action will change the state in a particular way
+- It must choose an action by making a probabilistic guess and then reassess the situation to see if the action worked
+- In some problems, the agent's preferences may be uncertain, especially if there are other agents or humans involved
+- These can be learned (e.g., with inverse reinforcement learning ), or the agent can seek informati on to improve its preferences .
+
+- The policy could be calculated (e.g., by iteration ), be heuristic , or it can be learned
+- Unsupervised learning anal yzes a stream of data and finds patterns and makes prediction s without any other guidance
+- Supervised learnin g requires a human to label the input data first, and comes in two main varieties: classification and regression
+- Game theory is used in AI programs that make decisions that involve other agents .
